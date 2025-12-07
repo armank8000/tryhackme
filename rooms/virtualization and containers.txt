@@ -26,19 +26,20 @@ How many system pods are running on the provided cluster?
 7
 
 What is the pod name on the provided cluster?
-hello-tryhackme-875767b84-sfk2c
+hello-tryhackme-66c4d4d69d-gb9nz
 
 What is the deployment name on the provided cluster?
 hello-tryhackme
 
 What port is exposed by the service in question 5?
-8080
+443
 
 How many replica sets are deployed on the provided cluster?
 1
 
 What is the replica set name on the provided cluster?
-hello-tryhackme-875767b84
+hello-tryhackme-66c4d4d69d
 
 What command would be used to delete the deployment from question 5?
 kubectl delete deployment hello-tryhackme
+
